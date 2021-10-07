@@ -6,9 +6,7 @@
 
 📍 Step 1: Fork and star this repository.
 
-📍 Step 2: You will be redirected to your own copy of this repo.
-
-📍 Step 3: You can edit the file in your own copy as per your progress.
+📍 Step 2: You can edit the file in your own copy as per your progress.
 
 -> Change [ ] to [x] to check the checkboxes and track your progress throughout the program timeline.
 
